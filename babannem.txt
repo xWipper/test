@@ -1,2 +1,1 @@
-yellow|[ 1 ] LegendWare Premium
-green|This is a green message for LegendWare Premium.
+allah
